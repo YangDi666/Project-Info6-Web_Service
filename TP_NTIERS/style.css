@@ -1,0 +1,59 @@
+html{
+	color:black;
+	background:azure;
+}
+
+body {
+	border-width: 5px;
+	border-style: solid;
+	border-color: azure;
+}
+
+div {
+	border-width: 2px;
+}
+
+.menu{
+    	border-style: dotted;
+	margin-left:5%;
+    	margin-right:5%;
+	background-color:azure;
+    	border-top-color: #0066FF;
+	border-bottom-color: #0066FF;
+	color:black;
+	font-family:arial;
+	font-size:26px;
+	text-align:center;
+}
+
+
+#users{
+    	margin-left:10%;
+    	color:#000000;
+    	font-size:22px;
+    	text-align: center;
+    	padding-right: 150px;
+    	font-family: "Times New Roman";
+}
+
+
+#table{
+	margin-left:20%;
+    	color:#000000;
+    	font-size:22px;
+    	text-align: center;
+	padding-right: 150px;
+	font-family: "Times New Roman";
+}
+
+.footer{
+    	margin-left:5%;
+    	margin-right:5%;
+    	margin-top:20%;
+    	border-style: dotted;
+    	background-color:#FFFFFF;
+	border-top-color: #0066FF;
+	border-bottom-color: #0066FF;
+	text-align: center;
+	font-family: "Sitka Heading";
+} 
